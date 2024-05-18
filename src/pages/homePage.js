@@ -21,7 +21,7 @@ const HomePage = () => {
             <FeelSpecial/>
             <BrandsLove/>
             <CredExperience/>
-            {/* <MobileScroll/> */}
+            <MobileScroll/>
             <div className="non-mobile">
                 <WindowPeek/>
             </div>
