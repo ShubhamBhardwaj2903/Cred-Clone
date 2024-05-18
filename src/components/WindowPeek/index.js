@@ -1,12 +1,12 @@
-// import React from 'react';
-// import "./windowPeek.css";
+import React from 'react';
+import "./windowPeek.css";
 
-// const WindowPeek = () => {
-//   return (
-//     <div className='window-peek'>
+const WindowPeek = () => {
+  return (
+    <div className='window-peek'>
         
-//     </div>
-//   )
-// }
+    </div>
+  )
+}
 
-// export default WindowPeek
+export default WindowPeek
