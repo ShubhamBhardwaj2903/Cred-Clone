@@ -18,9 +18,9 @@ const HomePage = () => {
             <Header />
             <HeroSection /> 
             <ProductShowcase/>
-            {/* <FeelSpecial/>
+            <FeelSpecial/>
             <BrandsLove/>
-            <CredExperience/> */}
+            <CredExperience/>
             <MobileScroll/>
             <div className="non-mobile">
                 <WindowPeek/>
