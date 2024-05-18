@@ -22,13 +22,13 @@ const HomePage = () => {
             <BrandsLove/>
             <CredExperience/>
             <MobileScroll/>
-            <div className="non-mobile">
+            {/* <div className="non-mobile">
                 <WindowPeek/>
             </div>
             <CredSecurity/>
             <CredStory/>
             <AppRating/>
-            <Footer/>   
+            <Footer/>    */}
         </>
     )
 }
