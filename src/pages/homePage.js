@@ -20,7 +20,7 @@ const HomePage = () => {
             <ProductShowcase/>
             <FeelSpecial/>
             <BrandsLove/>
-            <CredExperience/>
+            {/* <CredExperience/> */}
             <MobileScroll/>
             <div className="non-mobile">
                 <WindowPeek/>
