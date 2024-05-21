@@ -16,10 +16,10 @@
     flex-direction: column;
 }
 
-/* .photo-section {
+.photo-section {
     height: 100%;
     background-size: cover;
-} */
+}
 
 .photo-section-child {
     padding: 240px 0px 180px;
