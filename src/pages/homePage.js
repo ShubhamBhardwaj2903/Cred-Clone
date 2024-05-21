@@ -25,10 +25,10 @@ const HomePage = () => {
             <div className="non-mobile">
                 <WindowPeek/>
             </div>
-            {/* <CredSecurity/>
+            <CredSecurity/>
             <CredStory/>
             <AppRating/>
-            <Footer/>    */}
+            <Footer/>   
         </>
     )
 }
