@@ -28,7 +28,7 @@ const HomePage = () => {
             <CredSecurity/>
             <CredStory/>
             <AppRating/>
-            <Footer/>   
+            {/* <Footer/>    */}
         </>
     )
 }
