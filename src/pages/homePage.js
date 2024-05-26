@@ -27,7 +27,7 @@ const HomePage = () => {
             </div>
             <CredSecurity/>
             <CredStory/>
-            {/* <AppRating/> */}
+            <AppRating/>
             <Footer/>   
         </>
     )
